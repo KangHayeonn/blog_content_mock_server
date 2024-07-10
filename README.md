@@ -16,12 +16,8 @@
  git clone https://github.com/SoNgSeUNgMiN96/blog_content_mock_server.git
  cd blog_content_mock_server
 ```
-2. main.py를 실행합니다.
-``` bash
-python main.py
-```
 
-3. 필요한 모듈을 개별로 설치합니다.
+2. 필요한 모듈을 개별로 설치합니다.
 ``` bash
 pip install flask
 pip install pandas
