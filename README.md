@@ -12,10 +12,10 @@
 ## 설치 방법
 
 1. 프로젝트를 클론하거나 다운로드합니다.
-   ```bash
-   git clone https://github.com/SoNgSeUNgMiN96/blog_content_mock_server.git
-   cd blog_content_mock_server
-
+```bash
+ git clone https://github.com/SoNgSeUNgMiN96/blog_content_mock_server.git
+ cd blog_content_mock_server
+```
 2. 가상 환경을 생성하고 활성화합니다.
 ``` bash
 python -m venv venv
