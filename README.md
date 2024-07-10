@@ -13,8 +13,8 @@
 
 1. 프로젝트를 클론하거나 다운로드합니다.
    ```bash
-   git clone https://github.com/your-repository/flask-blog-api.git
-   cd flask-blog-api
+   git clone https://github.com/SoNgSeUNgMiN96/blog_content_mock_server.git
+   cd blog_content_mock_server
 
 2. 가상 환경을 생성하고 활성화합니다.
 ``` bash
